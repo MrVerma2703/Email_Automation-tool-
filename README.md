@@ -1,4 +1,4 @@
-Streamline your email communication and eliminate spam concerns with The Email Automation Tool, a powerful open-source project on GitHub.
+Streamline your email communication and eliminate spam concerns with The Email Automation Tool..
 
 Craft Personalized Emails and Schedule Delivery:
 
